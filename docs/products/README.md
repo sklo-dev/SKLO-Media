@@ -7,13 +7,13 @@ Each page is maintained by the corresponding product owner. The central SKLO Med
 ## Pages
 
 - [SKLO Atlas](SKLO_ATLAS.md)
-- [MediaAudit](MEDIAAUDIT.md)
+- [Pryzma / Призма (formerly MediaAudit)](MEDIAAUDIT.md)
 - [MediaOrder / МедіаПорядок](MEDIAORDER.md)
 - [SKLO FmediaDB](SKLO_FMEDIADB.md)
 - [SKLO Scenario Matching](SKLO_SCENARIO_MATCHING.md)
 - [SKLO Transcript & Subtitles](SKLO_TRANSCRIPT_SUBTITLES.md)
 - [SKLO Image Analysis](SKLO_IMAGE_ANALYSIS.md)
-- [SKLO Photo Enhancement](SKLO_PHOTO_ENHANCEMENT.md)
+- [SKLO Vizell / Візелль — photo enhancement](SKLO_PHOTO_ENHANCEMENT.md)
 
 ## Owner template
 

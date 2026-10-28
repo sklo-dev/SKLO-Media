@@ -1,9 +1,10 @@
-# SKLO Photo Enhancement
+# SKLO Vizell / Візелль — photo enhancement
 
 **Page status:** OWNER CONTENT PENDING  
-**Product owner:** SKLO Photo Enhancement owner-chat
+**Name status:** working name, not yet final (formerly SKLO Photo Enhancement)  
+**Product owner:** 📷 Візелль
 
-This page is reserved for the SKLO Photo Enhancement owner.
+This page is reserved for the Vizell product owner.
 
 The owner will publish the authoritative public description, status, interfaces, roadmap, and links when ready.
 

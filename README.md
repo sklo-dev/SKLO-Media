@@ -22,7 +22,7 @@
 | **[Атлас / SKLO Atlas](docs/products/SKLO_ATLAS.md)** | Визначення, назви й упорядкування медіа; контрольовані файлові операції. | Докладний опис готується. |
 | **[МедіаПорядок / MediaOrder](docs/products/MEDIAORDER.md)** | Робота з медіапроєктами автора та координація спеціалізованих інструментів. | Докладний опис готується. |
 
-Інші напрями: [FmediaDB](docs/products/SKLO_FMEDIADB.md), [зіставлення зі сценарієм](docs/products/SKLO_SCENARIO_MATCHING.md), [транскрипція й субтитри](docs/products/SKLO_TRANSCRIPT_SUBTITLES.md), [аналіз зображень](docs/products/SKLO_IMAGE_ANALYSIS.md), [покращення фото](docs/products/SKLO_PHOTO_ENHANCEMENT.md).
+Інші напрями: [FmediaDB](docs/products/SKLO_FMEDIADB.md), [зіставлення зі сценарієм](docs/products/SKLO_SCENARIO_MATCHING.md), [транскрипція й субтитри](docs/products/SKLO_TRANSCRIPT_SUBTITLES.md), [аналіз зображень](docs/products/SKLO_IMAGE_ANALYSIS.md), [Візелль — покращення фото](docs/products/SKLO_PHOTO_ENHANCEMENT.md).
 
 > Наявність продукту в цій карті не означає, що вже опубліковано його код, інсталяційний пакет або стабільний API. Стан і межі описуються на сторінці кожного продукту.
 

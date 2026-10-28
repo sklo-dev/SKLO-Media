@@ -2,7 +2,7 @@
 
 **Page status:** OWNER CONTENT PENDING  
 **Name status:** PROPOSED / NOT FROZEN  
-**Product owner:** SKLO Transcript & Subtitles owner-chat
+**Product owner:** none yet; coordinated by 🎞️ SKLO Media — architecture until a separate owner is assigned
 
 This page is reserved for the Transcript / Subtitle capability owner.
 

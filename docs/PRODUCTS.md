@@ -15,11 +15,11 @@ Current architectural rule:
 - internal capabilities may mature inside Atlas before any future extraction;
 - `SKLO FileWorker` is currently an internal working capability name, not a separate product or repository.
 
-### MediaAudit
+### Pryzma / Призма (formerly MediaAudit)
 
-An independent media-analysis product with its own release lineage, runtime, roadmap, contracts, and acceptance.
+An independent video- and audio-analysis product with its own release lineage, runtime, roadmap, contracts, and acceptance.
 
-Other SKLO Media products may consume MediaAudit results only through owner-approved external consumer contracts.
+Other SKLO Media products may consume Pryzma results only through owner-approved external consumer contracts.
 
 ### MediaOrder / МедіаПорядок
 
@@ -52,13 +52,15 @@ A separate capability covering:
 
 The public product name and technical slug may still evolve.
 
-### SKLO Image Analysis
+### SKLO Image Analysis / Аналіз зображень
 
-A developing image-analysis capability.
+A developing image-analysis capability: read-only assessment of photos, without changing the original.
 
-### SKLO Photo Enhancement
+### SKLO Vizell / Візелль (photo enhancement)
 
-A developing photo-enhancement capability.
+A developing non-generative photo-enhancement capability: the original stays unchanged, the result is a separate file. It may work on its own or use Image Analysis results.
+
+Vizell is the working product name; it is not yet final. The page address keeps the earlier name.
 
 ## Boundary rule
 
